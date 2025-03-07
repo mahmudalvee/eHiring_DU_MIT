@@ -1,2 +1,2 @@
-# e-Hiring-DU_MIT-
+# eHiring-DU_MIT
 Final project for MIT(Executive) under University of Dhaka.
